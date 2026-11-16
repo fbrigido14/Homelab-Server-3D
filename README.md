@@ -1,4 +1,9 @@
 # Homelab-Server-3D
+
+[![YouTube - Canal Chipset](https://img.shields.io/badge/YouTube-Canal_Chipset-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chipset-BR)
+
+> 🎥 **Acompanhe a montagem e os testes completos deste projeto no canal [Chipset](https://www.youtube.com/@Chipset-BR)** — conteúdo sobre hardware, servidores homelab, Proxmox, redes e impressão 3D.
+
 Modelos 3D (OpenSCAD/STL) para impressão na Anycubic Kobra 4: gabinete servidor rack 19" 4U modular para placa-mãe dual Xeon (Oracyn X99) e suportes ultra-slim de ventoinha 80mm para controladora PCIe 4x NVMe (XS44) e HBA LSI SAS 9300-16i. Foco em airflow e montagem sem suportes.
 
 # 🖥️ Modular 4U 19" Rack Server Chassis & Ultra-Slim PCIe Coolers
@@ -31,12 +36,49 @@ Modelos 3D paramétricos (**OpenSCAD** e **STL**) projetados sob medida para imp
 ### Hardware & Fixação (Parafusos e Inserções)
 | Qtd. | Item | Aplicação |
 | :--- | :--- | :--- |
-| **24x** | Parafusos **M3 × 10 mm** + Porcas M3 (ou *heat-set inserts*) | União entre os módulos do chassi e orelhas de rack 19" |
+| **38x** | Parafusos **M3 × 10 mm** + Porcas M3 (ou *heat-set inserts*) | União entre os módulos do chassi e orelhas de rack 19" |
 | **12x** | Parafusos **M3 × 6 mm** (rosca fina 6-32 / M3) | Fixação da placa-mãe (Oracyn X99) e placa traseira |
 | **4x** | Parafusos **#6-32** padrão ATX | Fixação da fonte de alimentação |
-| **8x** | Parafusos para ventoinha (**M4/M5 auto-atarraxantes** ou M3 longos) | Fixação das ventoinhas de 80 mm nos suportes PCIe |
+| **16x** | Parafusos para ventoinha (**M4/M5 auto-atarraxantes** ou M3 longos) | Fixação das ventoinhas de 80 mm nos suportes PCIe |
 | **2x** | Ventoinhas **80 × 80 × 15 mm** (ou 25 mm) PWM 12V | Refrigeração dedicada da placa NVMe XS44 e LSI 9300-16i |
-| **2x–4x** | Ventoinhas **80 mm / 92 mm / 120 mm** | Exaustão e admissão lateral/frontal do gabinete 4U |
+| **6x** | Ventoinhas **80 mm / 92 mm / 120 mm** | Exaustão e admissão lateral/frontal do gabinete 4U |
+
+---
+
+### Links das peças
+| Qtd. | Item | Link |
+| :--- | :--- | :--- |
+| **1x** | Botão Power | https://s.click.aliexpress.com/e/_c3Kl13xT |
+| **1x** | Controladora LSI HBA 9300 16i | https://s.click.aliexpress.com/e/_c4KmwL9P |
+| **16x** | Adaptador sata | https://s.click.aliexpress.com/e/_c3lJVRPL |
+| **2x** | Controladora NVME | https://s.click.aliexpress.com/e/_c4txNuDF |
+| **12x** | Dissipador NVME | https://s.click.aliexpress.com/e/_c2zyA4cD |
+| **2x** | Xeon 2673 V4 | https://s.click.aliexpress.com/e/_c3M4RwRn |
+| **38x** | Parafusos M3 | https://s.click.aliexpress.com/e/_c3m3VnLj |
+| **38x** | Porcas M3 | https://s.click.aliexpress.com/e/_c3BuRpAh|
+| **2x** | Extensor sata | https://s.click.aliexpress.com/e/_c2wgFSXP |
+| **1x** | Display 6,86" Thermalright | https://s.click.aliexpress.com/e/_c45OJoA5 |
+| **12x** | Porcas Latão | https://s.click.aliexpress.com/e/_c3jbTFdX |
+| **2x** | Cooler 12V Controladora PCI | https://s.click.aliexpress.com/e/_c4LRYwcp |
+| **1x** | Extensor PWM: | https://s.click.aliexpress.com/e/_c2ulAxUz |
+| **6x** | Fans 80mm PWM | https://s.click.aliexpress.com/e/_c2uvk9B7|
+| **16x** | Extensor sata | https://s.click.aliexpress.com/e/_c3pwSj7x |
+| **8x** | SSD Netac 2.5" | https://s.click.aliexpress.com/e/_c2zCaSVj |
+| **12x** | SSD NVME Netac NV7000 | https://s.click.aliexpress.com/e/_c4lzdAbB |
+| **4x** | Memória DDR4 ECC 32GB | https://s.click.aliexpress.com/e/_c3uyLyH3|
+| **1x** | Fonte Pcyes Aether 850w Full Modular Cybenetics Gold | https://meli.la/2tSfmxC |
+| **2x** | Cooler Redragon Tyr 120mm | https://meli.la/2aHXssZ |
+| **2x** | Filamento PETG | https://meli.la/2ZZB7JZ |
+| **1x** | Placa Mãe Oracyn Vortex Dual | https://aliex.co/3unps |
+
+### Links Alternativos:
+| Item | Link |
+| :--- | :--- |
+| Memória DDR4 ECC 16GB | https://meli.la/1X9dPeD |
+| SSD Netac NV3000 | https://s.click.aliexpress.com/e/_c3NHvL2p |
+| SSD NVME Crucial | https://meli.la/25WENPw |
+| Impressora 3D Kobra 4 Combo | https://s.click.aliexpress.com/e/_c3lkJkCZ|
+| Impressora 3D Bambu Lab A1 | https://meli.la/34jcV73|
 
 ---
 
