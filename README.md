@@ -4,6 +4,7 @@
 
 > 🎥 **Acompanhe a montagem e os testes completos deste projeto no canal [Chipset](https://www.youtube.com/@Chipset-BR)** — conteúdo sobre hardware, servidores homelab, Proxmox, redes e impressão 3D.
 
+
 Modelos 3D (OpenSCAD/STL) para impressão na Anycubic Kobra 4: gabinete servidor rack 19" 4U modular para placa-mãe dual Xeon (Oracyn X99) e suportes ultra-slim de ventoinha 80mm para controladora PCIe 4x NVMe (XS44) e HBA LSI SAS 9300-16i. Foco em airflow e montagem sem suportes.
 
 # 🖥️ Modular 4U 19" Rack Server Chassis & Ultra-Slim PCIe Coolers
