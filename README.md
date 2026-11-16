@@ -21,7 +21,7 @@ Modelos 3D paramétricos (**OpenSCAD** e **STL**) projetados sob medida para imp
 
 ---
 
-## 🛠️ Lista de Peças e Materiais (BOM)
+## 🛠️ Lista de Peças e Materiais
 
 ### Filamento & Impressão
 * **Material Recomendado:** **PETG** ou **ABS** (obrigatório devido à temperatura interna próxima aos VRMs, HBA e SSDs NVMe — **não utilize PLA**).
