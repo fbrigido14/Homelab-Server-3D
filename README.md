@@ -46,7 +46,7 @@ Modelos 3D paramétricos (**OpenSCAD** e **STL**) projetados sob medida para imp
 
 ---
 
-### Links das peças
+### Links das peças (A quantidade foi a usada por mim, ajuste para o seu cenário)
 | Qtd. | Item | Link |
 | :--- | :--- | :--- |
 | **1x** | Botão Power | https://s.click.aliexpress.com/e/_c3Kl13xT |
