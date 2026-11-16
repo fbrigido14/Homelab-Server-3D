@@ -61,8 +61,7 @@ Configurações calibradas para a **Anycubic Kobra 4** (bico `0.4 mm`):
 
 ### 1. Montagem do Gabinete 4U
 1. **União dos Módulos:** Encaixe as seções frontal, central e traseira do chassi utilizando as guias de alinhamento e fixe com os parafusos **M3 × 10 mm**.
-2. **Compressão Estrutural:** Passe as 4 barras roscadas **M5** pelos canais laterais do chassi e aperte as porcas nas extremidades para eliminar qualquer flexão causada pelo peso da placa-mãe dual Xeon e da fonte ATX.
-3. **Instalação do Hardware:** Instale os espaçadores da placa-mãe **Oracyn X99**, fixe a fonte ATX na baia traseira e instale as ventoinhas laterais antes de fechar a tampa superior.
+2. **Instalação do Hardware:** Instale os espaçadores da placa-mãe **Oracyn X99**, fixe a fonte ATX na baia traseira e instale as ventoinhas laterais antes de fechar a tampa superior.
 
 ### 2. Instalação dos Suportes Cooler PCIe
 1. **LSI SAS 9300-16i:** Encaixe o suporte ultra-slim sobre o dissipador metálico da controladora HBA alinhando os furos de retenção. Parafuse a ventoinha de `80 mm` soprando **em direção ao dissipador** (*intake*).
