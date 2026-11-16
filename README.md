@@ -31,7 +31,6 @@ Modelos 3D paramétricos (**OpenSCAD** e **STL**) projetados sob medida para imp
 ### Hardware & Fixação (Parafusos e Inserções)
 | Qtd. | Item | Aplicação |
 | :--- | :--- | :--- |
-| **4x** | Barra roscada **M5** (380 mm) + 8x porcas travantes M5 | Compressão e rigidez longitudinal do gabinete 4U |
 | **24x** | Parafusos **M3 × 10 mm** + Porcas M3 (ou *heat-set inserts*) | União entre os módulos do chassi e orelhas de rack 19" |
 | **12x** | Parafusos **M3 × 6 mm** (rosca fina 6-32 / M3) | Fixação da placa-mãe (Oracyn X99) e placa traseira |
 | **4x** | Parafusos **#6-32** padrão ATX | Fixação da fonte de alimentação |
