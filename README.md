@@ -66,7 +66,7 @@ Modelos 3D paramétricos (**OpenSCAD** e **STL**) projetados sob medida para imp
 | **2x** | Cooler 12V Controladora PCI | https://s.click.aliexpress.com/e/_c4LRYwcp |
 | **1x** | Extensor PWM: | https://s.click.aliexpress.com/e/_c2ulAxUz |
 | **6x** | Fans 80mm PWM | https://s.click.aliexpress.com/e/_c2uvk9B7 |
-| **16x** | Extensor sata | https://s.click.aliexpress.com/e/_c3pwSj7x |
+| **16x** | Extensor sata Hotswap| https://s.click.aliexpress.com/e/_c3pwSj7x |
 | **8x** | SSD Netac 2.5" | https://s.click.aliexpress.com/e/_c2zCaSVj |
 | **12x** | SSD NVME Netac NV7000 | https://s.click.aliexpress.com/e/_c4lzdAbB |
 | **4x** | Memória DDR4 ECC 32GB | https://s.click.aliexpress.com/e/_c3uyLyH3 |
